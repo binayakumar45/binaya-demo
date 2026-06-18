@@ -1,7 +1,7 @@
 # binaya-demo
 This is my first repo.
 <br>
-Author - Binaya Kumar Subudhiray
+Author - Binaya Kumar Subudhiray (Ayush)
 #Git commands
 <br>
 
